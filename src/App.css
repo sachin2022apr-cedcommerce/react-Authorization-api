@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  width: 100%;
+}
+td, th, tr{
+  border: 1px solid;
+}
+.table {
+  max-width: 90%;
+  margin: auto;
+  border-collapse: collapse;
+  word-break: break-word;
+}
+td{
+ min-width: 100px;
+}
